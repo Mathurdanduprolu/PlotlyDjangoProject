@@ -23,5 +23,5 @@ This project is a real-time stock candlestick chart tool built with Django, pand
 ### Installation
 
 1. Clone the repository:
-   git clone [https://github.com/your-username/real-time-stock-chart](https://github.com/Mathurdanduprolu/PlotlyDjangoProject).git
-   cd real-time-stock-chart
+   - git clone [https://github.com/your-username/real-time-stock-chart](https://github.com/Mathurdanduprolu/PlotlyDjangoProject.git)
+   - cd real-time-stock-chart
